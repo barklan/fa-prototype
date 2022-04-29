@@ -1,6 +1,6 @@
 # fa-prototype
 
-Clean IOC seems possible with FastAPI+SA
+Clean IoC seems possible with FastAPI+SA
 
 - `db` "package" is **Secondary adapter level**
 - `rest` "package" is **Primary adapter level**
